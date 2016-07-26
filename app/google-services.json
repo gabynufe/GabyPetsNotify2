@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549438181493",
+    "firebase_url": "https://gabynotify.firebaseio.com",
+    "project_id": "gabynotify",
+    "storage_bucket": "gabynotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549438181493:android:6da776c8eac49c6f",
+        "android_client_info": {
+          "package_name": "com.gendigital.gabynotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549438181493-gsrk9khq1n8orhj7rnfoqh9tp809r2qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gendigital.gabynotify",
+            "certificate_hash": "559FCEE6550EB8ECCE634339B652CD4A994B8090"
+          }
+        },
+        {
+          "client_id": "549438181493-u226uie42phjm0e1ec3gn97p3b1fbjvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2WqJwtGH7u29zruQVCqAZs2OUaqJDgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549438181493-u226uie42phjm0e1ec3gn97p3b1fbjvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
